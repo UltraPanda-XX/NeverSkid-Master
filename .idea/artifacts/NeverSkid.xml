@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NeverSkid">
+    <output-path>$PROJECT_DIR$/out/artifacts/NeverSkid</output-path>
+    <root id="archive" name="NeverSkid.jar">
+      <element id="module-output" name="NeverSkid" />
+    </root>
+  </artifact>
+</component>
